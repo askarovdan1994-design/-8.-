@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Захват HTTP/1.x в PCAP и автономный анализ трафика учебного Gruyere."""
 
 from __future__ import annotations
